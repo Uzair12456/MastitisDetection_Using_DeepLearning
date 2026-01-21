@@ -55,7 +55,7 @@ Follow these steps to run the project locally:
 
 1. Clone the Repository
 ```bash
-git clone https://github.com/Umaralp/MastitisDetection_Using_DeepLearning.git
+git clone https://github.com/Uzair12456/MastitisDetection_Using_DeepLearning.git
 ```
 ```bash
 cd MastitisDetection_Using_DeepLearning
